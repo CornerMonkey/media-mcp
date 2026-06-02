@@ -1,3 +1,3 @@
-module github.com/timothylawson/media-mcp
+module github.com/CornerMonkey/media-mcp
 
 go 1.26.1

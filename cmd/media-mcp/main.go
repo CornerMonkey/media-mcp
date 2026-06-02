@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/timothylawson/media-mcp/internal/config"
+	"github.com/CornerMonkey/media-mcp/internal/config"
 )
 
 func main() {
